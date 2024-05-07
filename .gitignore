@@ -1,0 +1,6 @@
+Library/
+Logs/
+UserSettings/
+.gitignore
+.vsconfig
+Splash.sln
